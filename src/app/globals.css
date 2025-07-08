@@ -33,13 +33,13 @@ nav ul li:hover {
   } */
 
 .sec_1 {
-	background-image: url('@/assets/bgImage.png');
+	background-image: url('/assets/bgImage.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
 .sec_4 {
-	background-image: url('@/assets/bg2.png');
+	background-image: url('/assets/bg2.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -48,7 +48,7 @@ nav ul li:hover {
 @media(min-width: 900px){
 
   footer{
-    background-image: url('@/assets/foot.png');
+    background-image: url('/assets/foot.png');
     background-repeat: no-repeat;
     background-size: 100%;
   }
